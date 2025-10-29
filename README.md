@@ -5,4 +5,4 @@
 - Goal: To practice Java everyday and keep up a good commit history (Excluding Holidays ofc)
 
 Reasons for missing commit days:
-24-26th of october: Diwali (holiday) and small break in general
+- 24-26th of october: Diwali (holiday) and small break in general
